@@ -1,0 +1,119 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int z,num;
+    int c=0;
+    bool bb=false;
+    string a,b;
+    string s;
+    string x;
+    cin>>s;
+    
+   
+    for (int i = 0; i <s.length() ; i++)
+    {
+        if (s[i]=='|')
+        {
+            bb=true;
+        }else if (bb)
+        {
+            b.push_back(s[i]);
+        }else
+        {
+            a.push_back(s[i]);
+        }
+    }
+    if (s.length()==1)
+    {
+        cin>>x;
+        int z=x.length();
+        if (x.length()%2!=0)
+        {
+            cout<<"Impossible";
+            goto khaled;
+        }else
+        {
+            while (z!=0)
+            {
+                b.push_back(x[c]);
+                c++;
+                z--;
+                a.push_back(x[c]);
+                c++;
+                z--;
+            }
+            cout<<a<<"|"<<b;
+            goto khaled;
+        }
+
+    }
+    
+    cin>>x;
+    z=x.length();
+    num=a.length()+b.length()+x.length();
+    if (num%2!=0)
+    {
+        cout<<"Impossible";
+    }else 
+    {
+        if (a.length()==b.length() && z!=0)
+        {
+             while (z!=0)
+            {
+                b.push_back(x[c]);
+                c++;
+                z--;
+                a.push_back(x[c]);
+                c++;
+                z--;
+            }
+            cout<<a<<"|"<<b;
+            goto khaled;
+        }else
+        {
+            while (a.length()!=b.length() && z!=0 ) // A|BC
+            {                                       
+                if (a.length()>b.length())
+                {
+                    b.push_back(x[c]);
+                    z--;
+                    c++;
+                    if (a.length()==b.length()&&z!=0)
+                    {
+                        a.push_back(x[c]);
+                        z--;
+                        c++;
+                    }
+                }else if (a.length()<=b.length())
+                {
+                    a.push_back(x[c]);
+                    z--;
+                    c++;   
+                    if (a.length()==b.length()&&z!=0)
+                    {
+                        b.push_back(x[c]);
+                        z--;
+                        c++;
+                    }
+                }
+
+            }
+        }
+       
+        if (a.length()==b.length())
+        {
+            cout<<a<<"|"<<b;
+        }else
+        {
+            cout<<"Impossible";
+        }
+        
+        
+                
+    }
+    khaled:
+    
+    cout<<"\n";
+    
+}
