@@ -38,7 +38,7 @@
 
 - [💊 Online Pharmacy](https://github.com/khaledsaad17/online-pharmacy-project/tree/main) — An online pharmacy where users can book products and get them delivered to their home.  
 
-- [🎮 2048 Game](https://github.com/khaledsaad17/project-game-2048/tree/main) — A 2048 game implemented using **Linked List** and C++ Data Structures.  
+- [🎮 2048 Game](https://github.com/khaledsaad17/project-game-2048/tree/main) — A 2048 game implemented using different types of **Linked List** and C++ Data Structures.  
 
 - [🏨 Atlanties](https://github.com/khaledsaad17/Atlanties_private_test) — A work-in-progress hotel booking system (Backend only).  
 
