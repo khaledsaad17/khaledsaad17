@@ -5,16 +5,16 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/khaled-saad-baa787237/" title="LinkedIn Profile">
-    <img width="100" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
   <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile">
-    <img width="100" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" />
+    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" />
   </a>
   <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
-    <img width="100" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" />
+    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" />
   </a>
   <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile">
-    <img width="100" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
+    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
   </a>
 </h5>
 
