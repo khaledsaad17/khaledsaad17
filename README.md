@@ -4,63 +4,48 @@
 </h1>
 
 <br>
-<p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
-### Languages
+<p align="center">  
+  Hi, I'm <b>Khaled Saad</b> — Backend Developer from Egypt  
+  <br><br>  
+  🌙 I love calmness and staying up late solving programming problems  
+  📖 I enjoy learning more every day and never get bored of research and knowledge  
+  <br>  
+  🎓 I graduated from <b>Misr University for Science and Technology</b>, major Computer Science  
+  <br>  
+  💻 I'm mainly interested in <b>Backend Development</b> and building <b>RESTful APIs</b>  
+  <br>  
+  🚀 Currently working with <b>Node.js (Express)</b>  
+</p>  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+---
 
-### Technologies
+### 🚀 Languages  
+![Python](https://img.shields.io/badge/-Python-181717?logo=Python&logoColor=3776AB)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?logo=JavaScript&logoColor=F7DF1E)  
+![C++](https://img.shields.io/badge/-C++-181717?logo=C%2b%2b&logoColor=00599C)  
+![SQL](https://img.shields.io/badge/-SQL-181717?logo=MySQL&logoColor=4479A1)  
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+---
 
-### Full Stack Projects
+### ⚙️ Technologies  
+![Docker](https://img.shields.io/badge/-Docker-181717?logo=Docker&logoColor=2496ED)  
+![Express](https://img.shields.io/badge/-Express-181717?logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-181717?logo=django&logoColor=092E20)  
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+---
 
-### Cybersecurity Projects
+### 📂 Projects  
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+- [💊 Online Pharmacy](https://github.com/khaledsaad17/online-pharmacy-project/tree/main) — An online pharmacy where users can book products and get them delivered to their home.  
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+- [🎮 2048 Game](https://github.com/khaledsaad17/project-game-2048/tree/main) — A 2048 game implemented using **Linked List** and C++ Data Structures.  
+
+- [🏨 Atlanties](https://github.com/khaledsaad17/Atlanties_private_test) — A work-in-progress hotel booking system (Backend only).  
+
+---
+
+### 📊 GitHub Stats  
+<a href="https://github.com/khaledsaad17">  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=khaledsaad17&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=dark" />  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledsaad17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" />  
+</a>  
