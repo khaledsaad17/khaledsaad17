@@ -3,21 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60F733&center=true&vCenter=true&width=435&lines=Hey+there%2C+Developer!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;This+is+khaled+saad....;Nice+to+meet+you" alt="Typing SVG" /></a>
 </h1>
 
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/khaled-saad-baa787237/" title="LinkedIn Profile">
-    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile">
-    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" />
-  </a>
-  <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
-    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" />
-  </a>
-  <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile">
-    <img width="50" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
-  </a>
-</h5>
-
 <br>
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
