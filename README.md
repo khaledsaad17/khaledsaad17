@@ -43,13 +43,7 @@
 
 - [🎮 2048 Game](https://github.com/khaledsaad17/project-game-2048/tree/main) — A 2048 game implemented using different types of **Linked List** and C++ Data Structures.  
 
-- [🏨 Atlanties](https://github.com/khaledsaad17/Atlanties_private_test) — A work-in-progress hotel booking system (Backend only).  
-
 
 ---
 
-### 📊 GitHub Stats  
-<a href="https://github.com/khaledsaad17">  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=khaledsaad17&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=dark" />  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledsaad17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" />  
-</a>  
+
