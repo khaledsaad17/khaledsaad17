@@ -29,7 +29,7 @@
 
 ### ⚙️ Technologies  
 ![Docker](https://img.shields.io/badge/-Docker-181717?logo=Docker&logoColor=2496ED)  
-![Express](https://img.shields.io/badge/-Express-181717?logo=express&logoColor=white)  
+![NestJs](https://img.shields.io/badge/-Nestjs-181717?logo=express&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-181717?logo=django&logoColor=092E20)  
 
 ---
