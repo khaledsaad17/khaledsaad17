@@ -6,12 +6,6 @@
 <br>
 <p align="center">  
   Hi, I'm <b>Khaled Saad</b> — Backend Developer from Egypt  
-  <p align="center">
-  🌐 <b>My Portfolio Website</b><br>
-  <a href="https://yourdomain.com">
-    <img src="https://img.shields.io/badge/Visit-My%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
   <br><br>  
   🌙 I love calmness and staying up late solving programming problems  
   📖 I enjoy learning more every day and never get bored of research and knowledge  
@@ -49,7 +43,11 @@
 
 - [🎮 2048 Game](https://github.com/khaledsaad17/project-game-2048/tree/main) — A 2048 game implemented using different types of **Linked List** and C++ Data Structures.  
 
-
 ---
 
+### 🌐 Portfolio Website
+
+🚀 Check out my personal website where I showcase my projects, skills, and contact information.
+
+🔗 https://engkhaledsaad.com
 
