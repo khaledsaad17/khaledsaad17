@@ -21,6 +21,8 @@
 
 ### 🚀 Languages  
 ![Python](https://img.shields.io/badge/-Python-181717?logo=Python&logoColor=3776AB)  
+![NestJS](https://img.shields.io/badge/-NestJS-181717?logo=nestjs&logoColor=E0234E)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?logo=JavaScript&logoColor=F7DF1E)  
 ![C++](https://img.shields.io/badge/-C++-181717?logo=C%2b%2b&logoColor=00599C)  
 ![SQL](https://img.shields.io/badge/-SQL-181717?logo=MySQL&logoColor=4479A1)  
