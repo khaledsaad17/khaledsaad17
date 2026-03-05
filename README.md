@@ -6,6 +6,12 @@
 <br>
 <p align="center">  
   Hi, I'm <b>Khaled Saad</b> — Backend Developer from Egypt  
+  <p align="center">
+  🌐 <b>My Portfolio Website</b><br>
+  <a href="https://yourdomain.com">
+    <img src="https://img.shields.io/badge/Visit-My%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
   <br><br>  
   🌙 I love calmness and staying up late solving programming problems  
   📖 I enjoy learning more every day and never get bored of research and knowledge  
@@ -14,7 +20,7 @@
   <br>  
   💻 I'm mainly interested in <b>Backend Development</b> and building <b>RESTful APIs</b>  
   <br>  
-  🚀 Currently working with <b>Node.js (Express)</b>  
+  🚀 Currently working with <b>NestJs (Node.js)</b>  
 </p>  
 
 ---
